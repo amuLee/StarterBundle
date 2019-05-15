@@ -1,0 +1,3 @@
+# command
+python cifar10_lr_decay.py --output output/lr_decay_f0.25_plot.png
+python cifar10_lr_decay.py --output output/lr_decay_f0.5_plot.png
